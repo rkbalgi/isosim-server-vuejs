@@ -1,5 +1,7 @@
 # isosim-server-vuejs
 
+## Introduction
+A WIP vue based replacement for iso server (iso_server.html) plain JavaScript implementation in isosim
 ## Project setup
 ```
 npm install
